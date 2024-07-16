@@ -18,8 +18,10 @@ I am a second-year student in the equivalent of a Master's program in IT. Origin
 ## Web Development
 
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/07c378d3-8162-47e0-abff-de707bafcf5a" width="50" height="50" alt="Web Development Tool Icon">
-    <img src="https://github.com/user-attachments/assets/f6e67d1f-8202-4666-b04f-b051c70ba1dd" width="50" height="50" alt="Another Web Development Tool Icon">
+    <img src="https://github.com/user-attachments/assets/689ee4d6-cffa-406d-abdd-ad02bbfcff72" width="50" height="50" alt="Web Development Tool Icon">
+    <img src="https://github.com/user-attachments/assets/5945e9f4-f1b4-457b-a416-9bcfc17373fb" width="50" height="50" alt="Web Development Tool Icon">
+    <img src="https://github.com/user-attachments/assets/99d10541-9cdc-496b-be6e-0fa8a33f2e56" width="50" height="50" alt="Web Development Tool Icon">
+    <img src="https://github.com/user-attachments/assets/6cc147aa-a913-4884-9184-ead80772fa98" width="50" height="50" alt="Another Web Development Tool Icon">
 </div>
 
 ## Design
