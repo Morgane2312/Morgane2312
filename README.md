@@ -11,7 +11,7 @@
   <a><img src="https://github.com/user-attachments/assets/a3a4e555-4251-426f-add6-d4f83a73077f" style="width: 60px; height: auto;"></a>
   
 <h1>Web Development</h1>
-  <a><img src="https://github.com/user-attachments/assets/07c378d3-8162-47e0-abff-de707bafcf5a" style="width: 210px; height: auto;"></a>
+  <a><img src="https://github.com/user-attachments/assets/07c378d3-8162-47e0-abff-de707bafcf5a" style="width: 220px; height: auto;"></a>
   <a><img src="https://github.com/user-attachments/assets/f6e67d1f-8202-4666-b04f-b051c70ba1dd" style="width: 50px; height: auto;"></a>
 
 <h1>Design</h1>
