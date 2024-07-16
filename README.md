@@ -22,6 +22,7 @@ I am a second-year student in the equivalent of a Master's program in IT. Origin
     <img src="https://github.com/user-attachments/assets/5945e9f4-f1b4-457b-a416-9bcfc17373fb" width="50" height="50" alt="Web Development Tool Icon">
     <img src="https://github.com/user-attachments/assets/99d10541-9cdc-496b-be6e-0fa8a33f2e56" width="50" height="50" alt="Web Development Tool Icon">
     <img src="https://github.com/user-attachments/assets/6cc147aa-a913-4884-9184-ead80772fa98" width="50" height="50" alt="Another Web Development Tool Icon">
+    <img src="https://github.com/user-attachments/assets/1b10a3ca-6e2a-426e-987b-0fc780e128a2" width="50" height="50" alt="Another Web Development Tool Icon">
 </div>
 
 ## Design
