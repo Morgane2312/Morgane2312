@@ -15,7 +15,7 @@ I am a second-year student in the equivalent of a Master's program in IT. Origin
 
 ## Web Development
 
-* ![Web Development Tool Icon](https://github.com/user-attachments/assets/07c378d3-8162-47e0-abff-de707bafcf5a)
+* ![Web Development Tool Icon](https://github.com/user-attachments/assets/07c378d3-8162-47e0-abff-de707bafcf5a) 
 * ![Another Web Development Tool Icon](https://github.com/user-attachments/assets/f6e67d1f-8202-4666-b04f-b051c70ba1dd)
 
 ## Design
