@@ -7,20 +7,19 @@
   <li>🤝 I am open to collaboration on open-source projects</li>
 </ul>
 <h1>Platforms</h1>
-  <a><img src="https://github.com/user-attachments/assets/5c5bc7f0-ba0e-40b1-af2f-b34b492dd3b7" style="width: 60px; height: auto;"></a>
-  <a><img src="https://github.com/user-attachments/assets/034b1005-8d91-406c-ad12-173fd7ac4999" style="width: 55px; height: auto;"></a>
+  <a><img src="https://github.com/user-attachments/assets/a3a4e555-4251-426f-add6-d4f83a73077f" style="width: 60px; height: auto;"></a>
+  <a><img src="https://github.com/user-attachments/assets/0fe84737-1f5f-4e65-bab6-fe9a5fd6fcfa" style="width: 55px; height: auto;"></a>
   
 <h1>Web Development</h1>
-  <a><img src="https://github.com/user-attachments/assets/c3b1a6d3-910e-438d-876c-bc0b55e64d79" style="width: 210px; height: auto;"></a>
-  <a><img src="https://github.com/user-attachments/assets/a312a622-1ed5-4c81-a9bd-a22e6a54e650" style="width: 50px; height: auto;"></a>
-  <a><img src="https://github.com/user-attachments/assets/1f7512c4-cf4b-42be-87e9-edf15676a0fd" style="width: 80px; height: auto;"></a>
+  <a><img src="https://github.com/user-attachments/assets/07c378d3-8162-47e0-abff-de707bafcf5a" style="width: 210px; height: auto;"></a>
+  <a><img src="https://github.com/user-attachments/assets/f6e67d1f-8202-4666-b04f-b051c70ba1dd" style="width: 50px; height: auto;"></a>
 
 <h1>Design</h1>
-  <a><img src="https://github.com/user-attachments/assets/279f2505-e72b-4b26-b05b-1b2e5d664733" style="width: 55px; height: auto;"></a>
-  <a><img src="https://github.com/user-attachments/assets/c270bc7c-0925-4707-ac3c-b6352efb64a9" style="width: 55px; height: auto;"></a>
-  <a><img src="https://github.com/user-attachments/assets/4bcf2899-e920-476d-bd15-8df82c1f6a27" style="width: 55px; height: auto;"></a>
+  <a><img src="https://github.com/user-attachments/assets/30c6ed56-2b45-48c5-b801-f9e7708ed1bf" style="width: 55px; height: auto;"></a>
+  <a><img src="https://github.com/user-attachments/assets/3a6c2741-ce03-431e-9966-d57e0655fd1d" style="width: 55px; height: auto;"></a>
+  <a><img src="https://github.com/user-attachments/assets/18531da6-1a17-462d-80ad-99554a697f6b" style="width: 55px; height: auto;"></a>
 
 <h1>Commands</h1>
-  <a><img src="https://github.com/user-attachments/assets/867b7f59-c3a6-46a3-9e85-ec4b0451cc8a" style="width: 53px; height: auto;"></a>
-  <a><img src="https://github.com/user-attachments/assets/febc242c-6e3f-4874-83ae-ca249cae695f" style="width: 50px; height: auto;"></a>
+  <a><img src="https://github.com/user-attachments/assets/a3a4e555-4251-426f-add6-d4f83a73077f" style="width: 53px; height: auto;"></a>
+  <a><img src="https://github.com/user-attachments/assets/0fe84737-1f5f-4e65-bab6-fe9a5fd6fcfa" style="width: 50px; height: auto;"></a>
 
