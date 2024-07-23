@@ -38,4 +38,6 @@ I am a second-year student in the equivalent of a Master's program in IT. Origin
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/user-attachments/assets/38da7256-bd14-40ec-be4e-f1f47bd8bc7c" width="50" height="50" alt="Command Line Icon">
     <img src="https://github.com/user-attachments/assets/38275fe5-16c0-44be-bdcb-40faa3ddfdee" width="50" height="50" alt="Another Command Line Icon">
-</div>
+</div><br>
+
+![](https://komarev.com/ghpvc/?username=Morgane2312&style=flat-square)
