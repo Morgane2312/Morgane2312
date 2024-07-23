@@ -1,4 +1,4 @@
-## Nice to meet you!
+<h1> Nice to meet you!</h1>
 
 I am a second-year student in the equivalent of a Master's program in IT. Originally, I was studying administration and accounting, but I followed my dream of becoming a developer, a dream I have had since childhood. I have mastered HTML, CSS, SQL, SEO, SEA, and WordPress, and I am currently learning JavaScript, PHP, and C. Additionally, I am proficient in Windows and Mac commands. I am multi-platform, comfortable working on both MacBook and Windows PC.
 
