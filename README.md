@@ -18,7 +18,7 @@ I am a second-year student in the equivalent of a Master's program in IT. Origin
 ## Software
 
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/5ddc8f7d-e7ce-438d-abfe-5c4d86dcb06c" width="50" height="50" alt="Visual Studio Code ">
+    <img src="https://github.com/user-attachments/assets/5ddc8f7d-e7ce-438d-abfe-5c4d86dcb06c" width="48" height="48" alt="Visual Studio Code ">
 </div>
 
 ## Web Development
