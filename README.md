@@ -1,4 +1,3 @@
-<div align="center">
 # 🧑‍💻 About Me
 🌍 Based in **France**  
 🌱 Currently learning **web-oriented programming**  
@@ -54,5 +53,3 @@
 </a>
 
 ---
-
-</div>
