@@ -1,10 +1,4 @@
-# MasterJudah here 🔥 !
-
-### Namaste 🙏 I'm Joshua Thadi
-
----
-
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 - 🌍 Based in **France**
 - 🌱 Currently learning **web-oriented programming**
 - 🤝 Open to collaboration on **open-source projects**
