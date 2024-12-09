@@ -41,11 +41,6 @@
 
 ---
 
-## 💬 Random Dev Quote
-> "Sometimes, the elegant implementation is just a function. Not a method. Not a class. Not a framework. Just a function."  
-> - **John Carmack**
-
----
 
 ## ☕ Support Me
 <a href="https://www.buymeacoffee.com/ys78rvxmpmy" target="_blank">
