@@ -26,9 +26,9 @@
 
 ## :art: Design Tools
 <div>
-  <img src="https://github.com/user-attachments/assets/30c6ed56-2b45-48c5-b801-f9e7708ed1bf" alt="Photoshop" width="60" height="50">
-  <img src="https://github.com/user-attachments/assets/3a6c2741-ce03-431e-9966-d57e0655fd1d" alt="InDesign" width="60" height="50">
-  <img src="https://github.com/user-attachments/assets/18531da6-1a17-462d-80ad-99554a697f6b" alt="Figma" width="60" height="50">
+  <img src="https://github.com/user-attachments/assets/30c6ed56-2b45-48c5-b801-f9e7708ed1bf" alt="Photoshop" width="50" height="50">
+  <img src="https://github.com/user-attachments/assets/3a6c2741-ce03-431e-9966-d57e0655fd1d" alt="InDesign" width="50" height="50">
+  <img src="https://github.com/user-attachments/assets/18531da6-1a17-462d-80ad-99554a697f6b" alt="Figma" width="50" height="50">
 </div>
 
 ---
