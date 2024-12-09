@@ -35,8 +35,8 @@
 
 ## :bar_chart: GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=MasterJudah&show_icons=true&theme=default" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterJudah&layout=compact&theme=default" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=MasterJudah&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterJudah&layout=compact&theme=dark" alt="Top Languages">
 </div>
 
 ---
