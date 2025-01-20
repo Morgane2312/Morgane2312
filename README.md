@@ -16,7 +16,7 @@
 
 ---
 
-## 🖥️: Platforms
+## 🖥️ Platforms
 <div>
   <img src="https://github.com/user-attachments/assets/0fe84737-1f5f-4e65-bab6-fe9a5fd6fcfa" alt="iOS" width="50" height="50">
   <img src="https://github.com/user-attachments/assets/a3a4e555-4251-426f-add6-d4f83a73077f" alt="Windows" width="50" height="50">
