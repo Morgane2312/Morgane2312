@@ -43,6 +43,6 @@
 
 
 ## :coffee: Support Me
-<a href="https://www.buymeacoffee.com/ys78rvxmpmy" target="_blank">
+<a href="https://www.buymeacoffee.com/melizora" target="_blank">
   <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=white">
 </a>
