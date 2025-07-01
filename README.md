@@ -30,19 +30,3 @@
   <img src="https://github.com/user-attachments/assets/3a6c2741-ce03-431e-9966-d57e0655fd1d" alt="InDesign" width="50" height="50">
   <img src="https://github.com/user-attachments/assets/18531da6-1a17-462d-80ad-99554a697f6b" alt="Figma" width="50" height="50">
 </div>
-
----
-
-## :bar_chart: GitHub Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=morgane2312&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morgane2312&layout=compact&theme=dark" alt="Top Languages">
-</div>
-
----
-
-
-## :coffee: Support Me
-<a href="https://www.buymeacoffee.com/melizora" target="_blank">
-  <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=white">
-</a>
